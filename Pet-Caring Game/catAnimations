@@ -1,0 +1,149 @@
+Idle Right:
+\     ^^
+ (___)''
+ /\ /\
+
+Idle Left:
+^^     /
+''(___)
+  /\ /\
+
+Walk Right 1:
+\      ^^
+ (___) ''
+  /\ /\
+
+Walk Right 2:
+\      ^^
+ (___) ''
+  /) /)
+
+Walk Right 3:
+\      ^^
+ (___) ''
+ )\ )\
+
+Walk Left 1:
+^^     /
+''(___)
+  /\ /\
+
+Walk Left 2:
+^^     /
+''(___)
+  (\ (\
+
+Walk Left 3:
+^^     /
+''(___)
+  /( /(
+
+Eating Right 1:
+\     ^^
+ (___)'-'
+ /\ LL
+
+Eating Right 2:
+\     ^^
+ (___)'<'
+ /\ LL
+
+Eating Right 3:
+ /    ^^
+ (___)'['
+ /\ LL
+
+Eating Left 1:
+^^      /
+'-'(___)
+   JJ /\
+
+Eating Left 2:
+^^      /
+'>'(___)
+   JJ /\
+
+Eating Left 3:
+^^     \
+']'(___)
+   JJ /\
+
+Sleep Right 1:
+
+\     ^^
+ (___)--
+
+Sleep Right 2:
+
+\     ^^ Z
+ (___)--
+
+Sleep Right 3:
+           Z
+\     ^^
+ (___)--
+
+Sleep Right 4:
+
+\     ^^
+ (___)''
+
+Sleep Left 1:
+
+   ^^     /
+   --(___)
+
+Sleep Left 2:
+
+ Z ^^     /
+   --(___)
+
+Sleep Left 3:
+Z
+   ^^     /
+   --(___)
+
+Sleep Left 4:
+
+   ^^     /
+   ''(___)
+
+Death Right:
+
+\     ^^
+ (___)xx
+
+Death Left:
+
+   ^^     /
+   xx(___)
+
+Clean Right 1:
+
+ \     ^^  O
+O (___)--
+
+Clean Right 2:
+             O
+O\     ^^
+  (___)--
+
+Clean Left 1:
+
+ O ^^     /
+   --(___) O
+
+Clean Left 2:
+ O
+   ^^     / O
+   --(___)
+
+
+
+
+
+
+
+
+
+
